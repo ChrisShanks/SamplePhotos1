@@ -4,6 +4,6 @@ Following the Microsoft tutorial at https://docs.microsoft.com/en-us/windows/app
 
 This was the first successful app that was beyond a simple button click.
 
-All code is in MainWindow.XAML and MainWindow.xaml.cs 
+All code is in MainWindow.XAML and MainWindow.xaml.cs and ImageFileInfo.cs.
 
-Step 1 on the journey
+Step 1 on the journey.
